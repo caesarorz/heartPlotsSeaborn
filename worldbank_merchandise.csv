@@ -1,0 +1,455 @@
+,,Year,Exports/Imports,value,Income,Zone
+Develop Nations,0,1971,Imports,69.1205520884851,High_Income,Develop Nations
+Develop Nations,1,1972,Imports,69.5569979542217,High_Income,Develop Nations
+Develop Nations,2,1973,Imports,68.0780334755613,High_Income,Develop Nations
+Develop Nations,3,1974,Imports,66.91185973826,High_Income,Develop Nations
+Develop Nations,4,1975,Imports,65.5870375259124,High_Income,Develop Nations
+Develop Nations,5,1976,Imports,67.5606928302005,High_Income,Develop Nations
+Develop Nations,6,1977,Imports,67.6628873135329,High_Income,Develop Nations
+Develop Nations,7,1978,Imports,69.8682048266272,High_Income,Develop Nations
+Develop Nations,8,1979,Imports,64.9101733862544,High_Income,Develop Nations
+Develop Nations,9,1980,Imports,67.6028135400766,High_Income,Develop Nations
+Develop Nations,10,1981,Imports,64.674842312067,High_Income,Develop Nations
+Develop Nations,11,1982,Imports,60.5854279992074,High_Income,Develop Nations
+Develop Nations,12,1983,Imports,63.2566457518717,High_Income,Develop Nations
+Develop Nations,13,1984,Imports,66.6960530053794,High_Income,Develop Nations
+Develop Nations,14,1985,Imports,67.9190693467263,High_Income,Develop Nations
+Develop Nations,15,1986,Imports,72.8409147495813,High_Income,Develop Nations
+Develop Nations,16,1987,Imports,71.5246559036646,High_Income,Develop Nations
+Develop Nations,17,1988,Imports,69.580880245255,High_Income,Develop Nations
+Develop Nations,18,1989,Imports,69.8294351127007,High_Income,Develop Nations
+Develop Nations,19,1990,Imports,73.2037876410239,High_Income,Develop Nations
+Develop Nations,20,1991,Imports,71.5097442046601,High_Income,Develop Nations
+Develop Nations,21,1992,Imports,75.3872033592043,High_Income,Develop Nations
+Develop Nations,22,1993,Imports,75.1319056637953,High_Income,Develop Nations
+Develop Nations,23,1994,Imports,71.0756023318911,High_Income,Develop Nations
+Develop Nations,24,1995,Imports,68.7024001772034,High_Income,Develop Nations
+Develop Nations,25,1996,Imports,69.6047633226535,High_Income,Develop Nations
+Develop Nations,26,1997,Imports,49.939898009565,High_Income,Develop Nations
+Develop Nations,27,1998,Imports,47.6416557166717,High_Income,Develop Nations
+Develop Nations,28,1999,Imports,42.6010918019248,High_Income,Develop Nations
+Develop Nations,29,2000,Imports,59.0974259126455,High_Income,Develop Nations
+Develop Nations,30,2001,Imports,40.5456185734529,High_Income,Develop Nations
+Develop Nations,31,2002,Imports,63.3816846613082,High_Income,Develop Nations
+Develop Nations,32,2003,Imports,76.5114187112747,High_Income,Develop Nations
+Develop Nations,33,2004,Imports,71.8295984854025,High_Income,Develop Nations
+Develop Nations,34,2005,Imports,70.283589896172,High_Income,Develop Nations
+Develop Nations,35,2006,Imports,70.687320064442,High_Income,Develop Nations
+Develop Nations,36,2007,Imports,67.5543024844955,High_Income,Develop Nations
+Develop Nations,37,2008,Imports,66.9507378182347,High_Income,Develop Nations
+Develop Nations,38,2009,Imports,66.0025351189477,High_Income,Develop Nations
+Develop Nations,39,2010,Imports,68.3399064243141,High_Income,Develop Nations
+Develop Nations,40,2011,Imports,68.5233679256063,High_Income,Develop Nations
+Develop Nations,41,2012,Imports,69.8019288270982,High_Income,Develop Nations
+Develop Nations,42,2013,Imports,69.8135271531927,High_Income,Develop Nations
+Develop Nations,43,2014,Imports,66.9852514328874,High_Income,Develop Nations
+Develop Nations,44,2015,Imports,62.0963105427719,High_Income,Develop Nations
+Develop Nations,45,2016,Imports,60.1284661798883,High_Income,Develop Nations
+Develop Nations,46,2017,Imports,60.6049808077281,High_Income,Develop Nations
+Develop Nations,47,2018,Imports,61.493541846286,High_Income,Develop Nations
+Develop Nations,48,2019,Imports,60.5918384731084,High_Income,Develop Nations
+Develop Nations,49,1971,Exports,74.5268043549528,High_Income,Develop Nations
+Develop Nations,50,1972,Exports,73.0612404506205,High_Income,Develop Nations
+Develop Nations,51,1973,Exports,68.4780903348771,High_Income,Develop Nations
+Develop Nations,52,1974,Exports,68.6456249048942,High_Income,Develop Nations
+Develop Nations,53,1975,Exports,70.5255965499553,High_Income,Develop Nations
+Develop Nations,54,1976,Exports,70.4898579933394,High_Income,Develop Nations
+Develop Nations,55,1977,Exports,69.6957289979577,High_Income,Develop Nations
+Develop Nations,56,1978,Exports,69.5846497081976,High_Income,Develop Nations
+Develop Nations,57,1979,Exports,73.2398591351619,High_Income,Develop Nations
+Develop Nations,58,1980,Exports,65.5039526699648,High_Income,Develop Nations
+Develop Nations,59,1981,Exports,63.8810524269225,High_Income,Develop Nations
+Develop Nations,60,1982,Exports,70.8025728609994,High_Income,Develop Nations
+Develop Nations,61,1983,Exports,67.1000617198569,High_Income,Develop Nations
+Develop Nations,62,1984,Exports,73.585189216853,High_Income,Develop Nations
+Develop Nations,63,1985,Exports,76.8547566490356,High_Income,Develop Nations
+Develop Nations,64,1986,Exports,83.8609072455074,High_Income,Develop Nations
+Develop Nations,65,1987,Exports,82.7367857726504,High_Income,Develop Nations
+Develop Nations,66,1988,Exports,82.7333856308332,High_Income,Develop Nations
+Develop Nations,67,1989,Exports,81.8112164228679,High_Income,Develop Nations
+Develop Nations,68,1990,Exports,81.0708750803254,High_Income,Develop Nations
+Develop Nations,69,1991,Exports,80.2100074315257,High_Income,Develop Nations
+Develop Nations,70,1992,Exports,77.1188039556969,High_Income,Develop Nations
+Develop Nations,71,1993,Exports,86.1916180881075,High_Income,Develop Nations
+Develop Nations,72,1994,Exports,74.9924660859781,High_Income,Develop Nations
+Develop Nations,73,1995,Exports,73.1715370960483,High_Income,Develop Nations
+Develop Nations,74,1996,Exports,73.4822774845105,High_Income,Develop Nations
+Develop Nations,75,1997,Exports,49.9522347914837,High_Income,Develop Nations
+Develop Nations,76,1998,Exports,39.7722666564234,High_Income,Develop Nations
+Develop Nations,77,1999,Exports,27.7427014792337,High_Income,Develop Nations
+Develop Nations,78,2000,Exports,81.61775015226,High_Income,Develop Nations
+Develop Nations,79,2001,Exports,75.4962022892055,High_Income,Develop Nations
+Develop Nations,80,2002,Exports,76.4714629519866,High_Income,Develop Nations
+Develop Nations,81,2003,Exports,75.2306963755005,High_Income,Develop Nations
+Develop Nations,82,2004,Exports,72.7721852410226,High_Income,Develop Nations
+Develop Nations,83,2005,Exports,73.0889286864164,High_Income,Develop Nations
+Develop Nations,84,2006,Exports,71.0208596524866,High_Income,Develop Nations
+Develop Nations,85,2007,Exports,67.4338249584737,High_Income,Develop Nations
+Develop Nations,86,2008,Exports,67.0000783472723,High_Income,Develop Nations
+Develop Nations,87,2009,Exports,66.0187418364092,High_Income,Develop Nations
+Develop Nations,88,2010,Exports,70.6297536625282,High_Income,Develop Nations
+Develop Nations,89,2011,Exports,71.7875348288677,High_Income,Develop Nations
+Develop Nations,90,2012,Exports,71.4831296677464,High_Income,Develop Nations
+Develop Nations,91,2013,Exports,71.1757205966689,High_Income,Develop Nations
+Develop Nations,92,2014,Exports,69.7938782535033,High_Income,Develop Nations
+Develop Nations,93,2015,Exports,71.6422159448617,High_Income,Develop Nations
+Develop Nations,94,2016,Exports,72.8357859587923,High_Income,Develop Nations
+Develop Nations,95,2017,Exports,72.6341048879505,High_Income,Develop Nations
+Develop Nations,96,2018,Exports,73.6741739780202,High_Income,Develop Nations
+Develop Nations,97,2019,Exports,75.120313811862,High_Income,Develop Nations
+Asia and Pacific,0,1971,Imports,0.611494029428329,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,1,1972,Imports,0.0190118141019462,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,2,1973,Imports,0.0553678225065804,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,3,1974,Imports,0.319913726133283,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,4,1975,Imports,0.0364973506962627,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,5,1976,Imports,0.100212382663128,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,6,1977,Imports,0.123454735384908,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,7,1978,Imports,0.0730058056561637,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,8,1979,Imports,0.274859708514212,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,9,1980,Imports,0.138297257512349,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,10,1981,Imports,0.0438424154689277,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,11,1982,Imports,0.0799318452277666,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,12,1983,Imports,0.0763844684914067,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,13,1984,Imports,0.14470175309977,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,14,1985,Imports,0.0555306321191365,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,15,1986,Imports,0.19918526238727,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,16,1987,Imports,0.0777900405634975,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,17,1988,Imports,0.322161563766045,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,18,1989,Imports,0.153647282589958,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,19,1990,Imports,0.113669504398296,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,20,1991,Imports,0.149821015434327,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,21,1992,Imports,0.177862580093732,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,22,1993,Imports,0.348971449978893,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,23,1994,Imports,0.910249492255467,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,24,1995,Imports,1.95917085334073,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,25,1996,Imports,0.91404254622442,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,26,1997,Imports,2.07631926161112,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,27,1998,Imports,2.50589377433372,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,28,1999,Imports,2.70826330815561,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,29,2000,Imports,4.57293570975334,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,30,2001,Imports,3.71783946359527,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,31,2002,Imports,2.65007363434315,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,32,2003,Imports,2.56789989503769,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,33,2004,Imports,4.18177312160195,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,34,2005,Imports,5.59869943524918,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,35,2006,Imports,6.08992722976484,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,36,2007,Imports,7.81285277840511,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,37,2008,Imports,7.82196270240325,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,38,2009,Imports,7.91303652512607,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,39,2010,Imports,8.47999273030329,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,40,2011,Imports,9.2828904858116,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,41,2012,Imports,9.4334212660656,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,42,2013,Imports,11.1863463845726,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,43,2014,Imports,11.792772212191,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,44,2015,Imports,14.4710155974247,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,45,2016,Imports,16.1224192320214,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,46,2017,Imports,15.3739399774558,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,47,2018,Imports,15.3811119790844,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,48,2019,Imports,15.2165154733482,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,49,1971,Exports,0.0323515709922874,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,50,1972,Exports,0.0291502696399942,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,51,1973,Exports,0.018594597107378,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,52,1974,Exports,0.292301367934063,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,53,1975,Exports,0.466940112852309,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,54,1976,Exports,0.00827092163386149,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,55,1977,Exports,0.0293485704347574,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,56,1978,Exports,0.0704795185782292,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,57,1979,Exports,0.0809962105344357,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,58,1980,Exports,0.0789513949099811,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,59,1981,Exports,0.153554976252544,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,60,1982,Exports,0.188694837749986,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,61,1983,Exports,0.153544126210715,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,62,1984,Exports,0.174350830019618,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,63,1985,Exports,0.121694446160231,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,64,1986,Exports,0.0994332123440279,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,65,1987,Exports,0.190718030037192,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,66,1988,Exports,0.198607257564115,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,67,1989,Exports,0.27557228767612,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,68,1990,Exports,0.803665942009675,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,69,1991,Exports,0.452810440743253,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,70,1992,Exports,0.219966934073173,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,71,1993,Exports,0.140761248922387,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,72,1994,Exports,0.0863475234968939,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,73,1995,Exports,1.33274165498842,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,74,1996,Exports,0.139203464664524,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,75,1997,Exports,0.439039555374165,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,76,1998,Exports,0.379393592445016,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,77,1999,Exports,0.117233545137609,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,78,2000,Exports,2.00394428194523,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,79,2001,Exports,4.56821865020627,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,80,2002,Exports,3.15203351594163,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,81,2003,Exports,5.45319467325611,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,82,2004,Exports,5.64438671989278,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,83,2005,Exports,5.11655848458592,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,84,2006,Exports,8.31021882809562,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,85,2007,Exports,11.1187568956534,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,86,2008,Exports,9.48102675990235,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,87,2009,Exports,11.235263665782,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,88,2010,Exports,5.19538636817736,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,89,2011,Exports,4.00284760787946,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,90,2012,Exports,5.03127263244921,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,91,2013,Exports,6.14474315137313,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,92,2014,Exports,7.04936173390215,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,93,2015,Exports,1.05462289033864,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,94,2016,Exports,0.645288789474437,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,95,2017,Exports,1.53436887018278,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,96,2018,Exports,2.20513913556053,Low_Middle_Income,Asia_Pacific
+Asia and Pacific,97,2019,Exports,1.40263915306041,Low_Middle_Income,Asia_Pacific
+Europe_Central_Asia,0,1972,Imports,0.00776538885854139,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,1,1973,Imports,0.0195545087424034,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,2,1974,Imports,0.00722654811421837,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,3,1975,Imports,0.00288516606294567,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,4,1976,Imports,0.00246956585032351,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,5,1979,Imports,0.00765486434435729,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,6,1981,Imports,0.00124082307930928,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,7,1982,Imports,0.00279873407660247,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,8,1983,Imports,0.00333424267224395,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,9,1984,Imports,0.000916413889168904,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,10,1985,Imports,0.00300904903108621,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,11,1986,Imports,0.0201806121102892,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,12,1987,Imports,0.114915463822214,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,13,1988,Imports,0.0140440311813468,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,14,1989,Imports,0.0102623376983666,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,15,1992,Imports,0.119602815398647,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,16,1994,Imports,0.373720729002531,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,17,1995,Imports,0.389270741399563,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,18,1996,Imports,0.124428939056654,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,19,1997,Imports,0.630790636198029,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,20,1998,Imports,0.57753067492977,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,21,1999,Imports,0.443010220458173,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,22,2000,Imports,0.791115409083299,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,23,2001,Imports,0.432978607320332,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,24,2002,Imports,0.637003371091507,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,25,2003,Imports,0.441492825678555,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,26,2004,Imports,0.453951872468299,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,27,2005,Imports,0.818859688086237,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,28,2006,Imports,0.484520480876823,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,29,2007,Imports,0.463716909238367,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,30,2008,Imports,0.662052594884464,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,31,2009,Imports,0.294990222833824,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,32,2010,Imports,0.266591765095752,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,33,2011,Imports,0.628831720175917,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,34,2012,Imports,0.467941326697606,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,35,2013,Imports,0.42858288902056,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,36,2014,Imports,0.582709597860452,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,37,2015,Imports,0.786303608764377,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,38,2016,Imports,0.822770245090991,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,39,2017,Imports,0.825237531587055,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,40,2018,Imports,1.16581023345101,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,41,2019,Imports,1.28293070603081,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,42,1972,Exports,0.0504797352302338,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,43,1973,Exports,0.0061013521758584,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,44,1974,Exports,0.00363389424005051,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,45,1975,Exports,0.06853050722713,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,46,1976,Exports,0.0212680842013581,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,47,1979,Exports,0.055283127825091,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,48,1981,Exports,0.327445075329231,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,49,1982,Exports,1.04034672102547,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,50,1983,Exports,0.590348688133399,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,51,1984,Exports,0.0679328510676323,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,52,1985,Exports,0.0619850607334393,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,53,1986,Exports,0.0372415906011765,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,54,1987,Exports,0.00691397754842927,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,55,1988,Exports,0.00715339778357194,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,56,1989,Exports,0.0152521445295747,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,57,1992,Exports,0.0228473340051213,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,58,1994,Exports,0.191630686595505,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,59,1995,Exports,1.23727535049891,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,60,1996,Exports,0.978253092138721,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,61,1997,Exports,0.541362422744393,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,62,1998,Exports,0.906398937412984,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,63,1999,Exports,0.449463946754976,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,64,2000,Exports,0.40659444437835,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,65,2001,Exports,0.548553181023948,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,66,2002,Exports,0.236942546093677,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,67,2003,Exports,0.360827513369994,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,68,2004,Exports,0.0847796751131996,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,69,2005,Exports,0.332240909724448,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,70,2006,Exports,0.113009843449126,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,71,2007,Exports,0.0324157431956143,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,72,2008,Exports,0.370444165271249,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,73,2009,Exports,0.213964613669765,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,74,2010,Exports,0.503838245135296,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,75,2011,Exports,0.625427092585342,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,76,2012,Exports,0.516837028092271,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,77,2013,Exports,0.566465764285278,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,78,2014,Exports,0.601187770491957,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,79,2015,Exports,0.604812123864883,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,80,2016,Exports,0.86094259760181,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,81,2017,Exports,0.863479604874934,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,82,2018,Exports,0.711295336225446,Low_Middle_Income,Europe_CentralAsia
+Europe_Central_Asia,83,2019,Exports,0.800257674754695,Low_Middle_Income,Europe_CentralAsia
+LatinAmerica_Caribe,0,1971,Imports,27.5995643212245,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,1,1972,Imports,28.502993691291,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,2,1973,Imports,28.7033822708717,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,3,1974,Imports,28.956778293673,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,4,1975,Imports,30.7632274044613,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,5,1976,Imports,27.8567027916492,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,6,1977,Imports,24.653450515798,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,7,1978,Imports,26.3101198687544,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,8,1979,Imports,25.1377875581984,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,9,1980,Imports,28.7561745917885,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,10,1981,Imports,32.2351773342984,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,11,1982,Imports,36.2166264955036,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,12,1983,Imports,31.2351853535813,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,13,1984,Imports,30.0659818000202,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,14,1985,Imports,28.9626440240286,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,15,1986,Imports,25.0538368061167,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,16,1987,Imports,26.2280281055344,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,17,1988,Imports,28.4212179912733,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,18,1989,Imports,28.1023844020755,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,19,1990,Imports,25.0175716144776,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,20,1991,Imports,26.7995429629183,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,21,1992,Imports,23.0567410670751,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,22,1993,Imports,21.6276686220911,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,23,1994,Imports,26.2347895344549,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,24,1995,Imports,27.2930900634662,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,25,1996,Imports,27.9969944011454,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,26,1997,Imports,22.1578792876516,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,27,1998,Imports,17.1426426193921,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,28,1999,Imports,17.9576060281519,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,29,2000,Imports,28.819537281614,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,30,2001,Imports,18.9988299876691,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,31,2002,Imports,26.6300456550253,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,32,2003,Imports,19.5831409885409,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,33,2004,Imports,22.3198114128361,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,34,2005,Imports,22.0764669645769,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,35,2006,Imports,20.9814304754376,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,36,2007,Imports,22.0108049969512,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,37,2008,Imports,21.6912292612248,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,38,2009,Imports,19.0181233570241,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,39,2010,Imports,19.2949074940833,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,40,2011,Imports,18.489811768372,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,41,2012,Imports,17.4016355150609,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,42,2013,Imports,17.754180890223,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,43,2014,Imports,17.0883929527698,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,44,2015,Imports,18.4799624509919,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,45,2016,Imports,18.3803004616997,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,46,2017,Imports,18.6353577874606,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,47,2018,Imports,18.1018630765479,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,48,2019,Imports,18.2854678706266,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,49,1971,Exports,21.4439153165278,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,50,1972,Exports,19.8559550090472,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,51,1973,Exports,22.1760908346069,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,52,1974,Exports,25.0656939943084,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,53,1975,Exports,25.6273684082472,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,54,1976,Exports,26.1658201631566,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,55,1977,Exports,24.9664544632171,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,56,1978,Exports,24.6216637341129,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,57,1979,Exports,22.0035419771432,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,58,1980,Exports,30.1918702504208,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,59,1981,Exports,29.2643248540831,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,60,1982,Exports,22.9481158062917,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,61,1983,Exports,24.6042548344315,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,62,1984,Exports,22.0472057157015,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,63,1985,Exports,18.3764031976489,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,64,1986,Exports,13.0690464593429,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,65,1987,Exports,11.9454675734453,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,66,1988,Exports,13.4772425500175,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,67,1989,Exports,13.5182028262386,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,68,1990,Exports,12.4370000354407,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,69,1991,Exports,13.8929401134762,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,70,1992,Exports,17.686399347406,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,71,1993,Exports,12.1852431638783,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,72,1994,Exports,16.8889526698565,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,73,1995,Exports,17.1441581219874,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,74,1996,Exports,19.5899588684812,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,75,1997,Exports,14.4495674197891,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,76,1998,Exports,12.5438523933545,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,77,1999,Exports,10.5717279882378,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,78,2000,Exports,15.6186490653807,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,79,2001,Exports,19.0575365225675,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,80,2002,Exports,19.8053839094587,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,81,2003,Exports,18.6151262075448,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,82,2004,Exports,21.1159019897243,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,83,2005,Exports,21.0622736001212,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,84,2006,Exports,20.1763744267347,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,85,2007,Exports,20.8627639865801,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,86,2008,Exports,22.2256995202551,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,87,2009,Exports,21.4001153435044,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,88,2010,Exports,22.979764354707,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,89,2011,Exports,23.1682099303714,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,90,2012,Exports,22.4842966896856,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,91,2013,Exports,21.5293037310845,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,92,2014,Exports,22.1261851834148,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,93,2015,Exports,26.3588666383284,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,94,2016,Exports,25.2382302691554,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,95,2017,Exports,24.3854101452773,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,96,2018,Exports,22.9542512358656,Low_Middle_Income,LatinAmerica_Caribe
+LatinAmerica_Caribe,97,2019,Exports,22.1833207497812,Low_Middle_Income,LatinAmerica_Caribe
+South Asia,0,1978,Imports,0.0119996995495075,Low_Middle_Income,South_Asia
+South Asia,1,1980,Imports,0.0121707026031025,Low_Middle_Income,South_Asia
+South Asia,2,1981,Imports,0.0100093061730948,Low_Middle_Income,South_Asia
+South Asia,3,1982,Imports,0.00783645541448692,Low_Middle_Income,South_Asia
+South Asia,4,1983,Imports,0.0080830125387732,Low_Middle_Income,South_Asia
+South Asia,5,1985,Imports,0.0316406064783914,Low_Middle_Income,South_Asia
+South Asia,6,1986,Imports,0.027781102385593,Low_Middle_Income,South_Asia
+South Asia,7,1987,Imports,0.0298303498168286,Low_Middle_Income,South_Asia
+South Asia,8,1988,Imports,0.0723002237564559,Low_Middle_Income,South_Asia
+South Asia,9,1989,Imports,0.0383787256156525,Low_Middle_Income,South_Asia
+South Asia,10,1991,Imports,0.0464713834183768,Low_Middle_Income,South_Asia
+South Asia,11,1993,Imports,0.0551804433087962,Low_Middle_Income,South_Asia
+South Asia,12,1994,Imports,0.0927514816224424,Low_Middle_Income,South_Asia
+South Asia,13,1995,Imports,0.0797379032566049,Low_Middle_Income,South_Asia
+South Asia,14,1996,Imports,0.176264979204847,Low_Middle_Income,South_Asia
+South Asia,15,1997,Imports,0.100453593705137,Low_Middle_Income,South_Asia
+South Asia,16,1998,Imports,0.116365102219444,Low_Middle_Income,South_Asia
+South Asia,17,1999,Imports,0.106976843711129,Low_Middle_Income,South_Asia
+South Asia,18,2000,Imports,0.223478634074032,Low_Middle_Income,South_Asia
+South Asia,19,2001,Imports,0.156864969857827,Low_Middle_Income,South_Asia
+South Asia,20,2002,Imports,0.299984786590948,Low_Middle_Income,South_Asia
+South Asia,21,2003,Imports,0.203267256515875,Low_Middle_Income,South_Asia
+South Asia,22,2004,Imports,0.272218397826677,Low_Middle_Income,South_Asia
+South Asia,23,2005,Imports,0.35715553310302,Low_Middle_Income,South_Asia
+South Asia,24,2006,Imports,0.342964476780668,Low_Middle_Income,South_Asia
+South Asia,25,2007,Imports,0.461256511598415,Low_Middle_Income,South_Asia
+South Asia,26,2008,Imports,0.435066792938292,Low_Middle_Income,South_Asia
+South Asia,27,2009,Imports,0.460184801330311,Low_Middle_Income,South_Asia
+South Asia,28,2010,Imports,0.83324137404138,Low_Middle_Income,South_Asia
+South Asia,29,2011,Imports,0.872571384004006,Low_Middle_Income,South_Asia
+South Asia,30,2012,Imports,0.577652818022132,Low_Middle_Income,South_Asia
+South Asia,31,2013,Imports,0.621834976671334,Low_Middle_Income,South_Asia
+South Asia,32,2014,Imports,0.760184681582676,Low_Middle_Income,South_Asia
+South Asia,33,2015,Imports,1.00589938821672,Low_Middle_Income,South_Asia
+South Asia,34,2016,Imports,1.32415682171451,Low_Middle_Income,South_Asia
+South Asia,35,2017,Imports,1.33371150489037,Low_Middle_Income,South_Asia
+South Asia,36,2018,Imports,1.24322919495723,Low_Middle_Income,South_Asia
+South Asia,37,2019,Imports,1.28417528817331,Low_Middle_Income,South_Asia
+South Asia,38,1978,Exports,0.00147343941278528,Low_Middle_Income,South_Asia
+South Asia,39,1980,Exports,0.000918039475697455,Low_Middle_Income,South_Asia
+South Asia,40,1981,Exports,0.0586246711661846,Low_Middle_Income,South_Asia
+South Asia,41,1982,Exports,0.121779332635484,Low_Middle_Income,South_Asia
+South Asia,42,1983,Exports,0.0194109531242917,Low_Middle_Income,South_Asia
+South Asia,43,1985,Exports,0.00520154355805085,Low_Middle_Income,South_Asia
+South Asia,44,1986,Exports,0.020088444191275,Low_Middle_Income,South_Asia
+South Asia,45,1987,Exports,0.0104158622807506,Low_Middle_Income,South_Asia
+South Asia,46,1988,Exports,0.0278098385743359,Low_Middle_Income,South_Asia
+South Asia,47,1989,Exports,0.0348710856257082,Low_Middle_Income,South_Asia
+South Asia,48,1991,Exports,0.00545334980031116,Low_Middle_Income,South_Asia
+South Asia,49,1993,Exports,0.0123959816547249,Low_Middle_Income,South_Asia
+South Asia,50,1994,Exports,0.0403922094439225,Low_Middle_Income,South_Asia
+South Asia,51,1995,Exports,0.0208239189093712,Low_Middle_Income,South_Asia
+South Asia,52,1996,Exports,0.0447406265028599,Low_Middle_Income,South_Asia
+South Asia,53,1997,Exports,0.0157125182402376,Low_Middle_Income,South_Asia
+South Asia,54,1998,Exports,0.0103937538762962,Low_Middle_Income,South_Asia
+South Asia,55,1999,Exports,0.0138736301348952,Low_Middle_Income,South_Asia
+South Asia,56,2000,Exports,0.0833708360571577,Low_Middle_Income,South_Asia
+South Asia,57,2001,Exports,0.0912649428461582,Low_Middle_Income,South_Asia
+South Asia,58,2002,Exports,0.106598045150766,Low_Middle_Income,South_Asia
+South Asia,59,2003,Exports,0.153551692833351,Low_Middle_Income,South_Asia
+South Asia,60,2004,Exports,0.129673367751067,Low_Middle_Income,South_Asia
+South Asia,61,2005,Exports,0.111404398632326,Low_Middle_Income,South_Asia
+South Asia,62,2006,Exports,0.132432795969583,Low_Middle_Income,South_Asia
+South Asia,63,2007,Exports,0.313775533538181,Low_Middle_Income,South_Asia
+South Asia,64,2008,Exports,0.317563013230674,Low_Middle_Income,South_Asia
+South Asia,65,2009,Exports,0.355327831305434,Low_Middle_Income,South_Asia
+South Asia,66,2010,Exports,0.243483452807071,Low_Middle_Income,South_Asia
+South Asia,67,2011,Exports,0.244911219394413,Low_Middle_Income,South_Asia
+South Asia,68,2012,Exports,0.282922236545909,Low_Middle_Income,South_Asia
+South Asia,69,2013,Exports,0.278582206469939,Low_Middle_Income,South_Asia
+South Asia,70,2014,Exports,0.154904520242665,Low_Middle_Income,South_Asia
+South Asia,71,2015,Exports,0.151664579274764,Low_Middle_Income,South_Asia
+South Asia,72,2016,Exports,0.205412638693829,Low_Middle_Income,South_Asia
+South Asia,73,2017,Exports,0.387727010966343,Low_Middle_Income,South_Asia
+South Asia,74,2018,Exports,0.329826704775637,Low_Middle_Income,South_Asia
+South Asia,75,2019,Exports,0.30026677946314,Low_Middle_Income,South_Asia
